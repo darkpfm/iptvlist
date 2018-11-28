@@ -1,32 +1,94 @@
-#EXTINF:-1,PT- SPORT TV
-http://194.88.107.95:6204/mamadou/123/8810
-#EXTINF:-1,PT- SPORT TV   HD
-http://194.88.107.95:6204/mamadou/123/8809
-#EXTINF:-1,PT- SPORTING TV
-http://194.88.107.95:6204/mamadou/123/8808
-#EXTINF:-1,PT- SPORTTV 1 HD
-http://194.88.107.95:6204/mamadou/123/8807
-#EXTINF:-1,PT- SPORTTV 1 SD
-http://194.88.107.95:6204/mamadou/123/8806
-#EXTINF:-1,PT- SPORTTV 2 HD
-http://194.88.107.95:6204/mamadou/123/8805
-#EXTINF:-1,PT- SPORTTV 2 SD
-http://194.88.107.95:6204/mamadou/123/8804
-#EXTINF:-1,PT- SPORTTV 3 HD
-http://194.88.107.95:6204/mamadou/123/8803
-#EXTINF:-1,PT- SPORTTV 3 SD
-http://194.88.107.95:6204/mamadou/123/8802
-#EXTINF:-1,PT- SPORTTV 4 HD
-http://194.88.107.95:6204/mamadou/123/8801
-#EXTINF:-1,PT- SPORTTV 5 HD
-http://194.88.107.95:6204/mamadou/123/8800
-#EXTINF:-1,PT- EUROSPORT 1
-http://194.88.107.95:6204/mamadou/123/8853
-#EXTINF:-1,PT- EUROSPORT 2
-http://194.88.107.95:6204/mamadou/123/8852
-#EXTINF:-1,PT- EUROSPORT NEWS
-http://194.88.107.95:6204/mamadou/123/8850
-#EXTINF:-1,PT- EuroSport 2 XTRA HD
-http://194.88.107.95:6204/mamadou/123/8851
-#EXTINF:-1,PT- BTV 1 HD
-http://194.88.107.95:6204/mamadou/123/8867
+#EXTINF:-1,SportTV+ PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3613
+#EXTINF:-1,SportTV+ FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/13248
+#EXTINF:-1,SportTV 1 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2678
+#EXTINF:-1,SportTV 1 SD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7426
+#EXTINF:-1,SportTV 1 HD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7425
+#EXTINF:-1,SportTV 1 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3618
+#EXTINF:-1,SportTV 2 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2677
+#EXTINF:-1,SportTV 2 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3617
+#EXTINF:-1,SportTV 3 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2676
+#EXTINF:-1,SportTV 3 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3616
+#EXTINF:-1,SportTV 4 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2675
+#EXTINF:-1,SportTV 4 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3615
+#EXTINF:-1,SportTV 4 4K PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/15021
+#EXTINF:-1,SportTV 5 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2674
+#EXTINF:-1,SportTV 5 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/3614
+#EXTINF:-1,Sport TV UHD 4K PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/15064
+#EXTINF:-1,BTV 1 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/13247
+#EXTINF:-1,BTV 1 HD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2767
+#EXTINF:-1,BTV 1 FHD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2766
+#EXTINF:-1,Eleven Sports 1 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22714
+#EXTINF:-1,Eleven Sports 1 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22713
+#EXTINF:-1,Eleven Sports 1 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16066
+#EXTINF:-1,Eleven Sports 2 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22716
+#EXTINF:-1,Eleven Sports 2 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22715
+#EXTINF:-1,Eleven Sports 2 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16065
+#EXTINF:-1,Eleven Sports 3 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22718
+#EXTINF:-1,Eleven Sports 3 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22717
+#EXTINF:-1,Eleven Sports 3 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16064
+#EXTINF:-1,Eleven Sports 4 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22720
+#EXTINF:-1,Eleven Sports 4 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22719
+#EXTINF:-1,Eleven Sports 4 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16063
+#EXTINF:-1,Eleven Sports 5 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22722
+#EXTINF:-1,Eleven Sports 5 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22721
+#EXTINF:-1,Eleven Sports 5 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16062
+#EXTINF:-1,Eleven Sports 6 HD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22724
+#EXTINF:-1,Eleven Sports 6 FHD VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/22723
+#EXTINF:-1,Eleven Sports 6 FHD 4:3 VIP PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/16061
+#EXTINF:-1,Sporting TV PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2694
+#EXTINF:-1,Sporting TV HD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2695
+#EXTINF:-1,A Bola TV PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2780
+#EXTINF:-1,Real Madrid TV PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2715
+#EXTINF:-1,Eurosport 1 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2753
+#EXTINF:-1,Eurosport 1 HD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2752
+#EXTINF:-1,Eurosport 2 PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2751
+#EXTINF:-1,Eurosport News PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2750
+#EXTINF:-1,PFC PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2717
+#EXTINF:-1,Motorsport.TV HD PT
+http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2725

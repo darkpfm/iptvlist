@@ -1,4 +1,27 @@
 #EXTM3U
+
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+ 
+#EXTINF:-1, FIGHT SPORT 
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="hhttp://www.ampersandmedia.com/wp-content/uploads/2015/08/PC.png", POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8u8
+ 
+#EXTINF:-1, DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+ 
+#EXTINF:-1, UFC (CHI)
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1, FIGHTER CHANNEL (RUS) 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+ 
+#EXTINF:-1, KAZSPORT (KAZ)
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+
+#EXTM3U
 #EXTINF:0,=== Adult 18+ ===
 http://
 #EXTINF:0, Adult XXX

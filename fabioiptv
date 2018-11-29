@@ -1,366 +1,283 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://s3.amazonaws.com/pt-bm-images/company_images/2692/logo/2692_logo_original.png", SANTUÁRIO DE FÁTIMA [FSD]
+http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 
-#EXTINF:-1, SPORTS USA 
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
- 
-#EXTINF:-1, FIGHT SPORT 
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="hhttp://www.ampersandmedia.com/wp-content/uploads/2015/08/PC.png", POKER CENTRAL
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8u8
- 
-#EXTINF:-1, DXTV SPORTS
-http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
- 
-#EXTINF:-1, UFC (CHI)
-rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
- 
-#EXTINF:-1, FIGHTER CHANNEL (RUS) 
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
- 
-#EXTINF:-1, KAZSPORT (KAZ)
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", LEÇA DA PALMEIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
 
-#EXTM3U
-#EXTINF:0,=== Adult 18+ ===
-http://
-#EXTINF:0, Adult XXX
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:0, Asian Porn 1
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:0, Asian Porn 2
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:0, Asian Porn 3
-http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
-#EXTINF:0, Ask TV 
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:0, Bella Club 
-http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
-#EXTINF:0, BabeStation X-Treme
-http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
-#EXTINF:0, BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:0, BSX
-http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
-#EXTINF:0, BSX
-http://0100dyndns.tv:7879/live/tazia/tazia/557.m3u8
-#EXTINF:0, Boys Mania
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:0, ButGo
-http://edge2.everyon.Tv:1935/etv2sb/phd772/huraivza.m3u8
-#EXTINF:0, CLARO ADULTO
-http://wowza1.videos.movile.com:1935/live/adulto_1.smil/stream.m3u8
-#EXTINF:0, CLARO ADULTO (2)
-http://wowza1.videos.movile.com:8080/live/adulto_1.smil/stream.m3u8
-#EXTINF:0, CLARO ADULTO PREMIUM
-http://wowza1.videos.movile.com:1935/live/adultopremium_1.smil/stream.m3u8
-#EXTINF:0, CLARO ADULTO PREMIUM (2)
-http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/stream.m3u8
-#EXTINF:0, Exotica TV HD
-http://2streamingiptv.ddns.net:18001/live/Buscaglia/Buscaglia/3588.ts
-#EXTINF:0, erotic 1
-http://0100dyndns.tv:7879/live/tazia/tazia/155.m3u8
-#EXTINF:0, erotic 2
-http://www.nasatv.eu:80/live?channelId=67&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, erotic 3
-http://www.nasatv.eu:80/live?channelId=68&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, erotic 4
-http://www.nasatv.eu:80/live?channelId=37&uid=49&deviceUser=alena&devicePass=alena
-#EXTINF:0, FilmOn
-http://0100dyndns.tv:7879/live/tazia/tazia/154.m3u8
-#EXTINF:0, Flower (RU)
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:0, Hustler TV
-http://91.213.59.190:8000/239.0.0.199
-#EXTINF:0, HOT GIRL
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
-#EXTINF:0, Hot Shots TV
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:0, Jasmin TV HD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:0, Japao Hot
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:0, Корея 1 
-http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
-#EXTINF:0, LiveSex
-http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
-#EXTINF:0, Livething Premium 
-http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
-#EXTINF:0, Nefertisex 1
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:0, Nefertisex 2
-http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
-#EXTINF:0, Nefertisex 3
-http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
-#EXTINF:0, Nefertisex 4
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:0, Nefertisex 5
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-#EXTINF:0, Nefertisex 6
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
-#EXTINF:0, Nefertisex 7
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:0, Nefertisex 8
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:0, Nefertisex 9
-http://62.210.82.241:8081/private/private/live.m3u8
-#EXTINF:0, Nefertisex 10
-http://62.210.82.241:8081/sexzonehd/sexzonehd/live.m3u8
-#EXTINF:0, Nuart-TV
-http://91.213.59.190:8000/239.0.1.156
-#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", O-LA-LA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:0, PASSI XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:0, PASSI XXX
-http://0100dyndns.tv:7879/live/tazia/tazia/153.m3u8
-#EXTINF:0, Playy
-http://edge2.everyon.Tv:1935/etv2sb/phd769/huraivza.m3u8
-#EXTINF:0, PLAY 2
-http://0100dyndns.tv:7879/live/tazia/tazia/152.m3u8
-#EXTINF:0, Private.com
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:0, Русская Ночь
-http://91.213.59.190:8000/239.0.0.198
-#EXTINF:0, Redlight HD
-http://91.213.59.190:8000/239.0.1.27
-#EXTINF:0, SAKURA (Koreia)
-http://edge2.everyon.tv:1935/etv2sb/phd61/paz.m3u8
-#EXTINF:0, Sexstation 
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-#EXTINF:0, Spice
-http://edge2.everyon.Tv:1935/etv2sb/phd771/huraivza.m3u8
-#EXTINF:0, Venus
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:0, Venus HD (2)
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:0, WowGirls.com
-http://0100dyndns.tv:7879/live/tazia/tazia/151.m3u8
-#EXTINF:0, XXX0
-http://188.165.220.116:8081/live2/37/playlist.m3u8
-#EXTINF:0, XXX1
-http://188.165.220.116:8081/live/68/playlist.m3u8
-#EXTINF:0, XXX2
-http://188.165.220.116:8081/live2/43/playlist.m3u8
-#EXTINF:0, 21 Sextury.com
-http://188.165.220.116:8081/live/62/playlist.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", MATOSINHOS [SD]
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
 
-#EXTINF:0, === [B][COLOR red]AceStream/Plexus[/COLOR][/B] ===
-http://
-#EXTINF:0, brazzers-tv-europe
-plugin://program.plexus/?mode=1&url=acestream://d4651408263f14e7b48e12c7d8ea566abf0a27d1&name=brazzers-tv-europe
-#EXTINF:0, candy
-plugin://program.plexus/?mode=1&url=acestream://3bc119a0acfae80ec76c36a21a1c535c6f642bff&name=candy
-#EXTINF:0, candyman
-plugin://program.plexus/?mode=1&url=acestream://8435bc88fe2809cbf4250e6f857828d077a7c8a8&name=candyman
-#EXTINF:0, centoxcento-tv
-plugin://program.plexus/?mode=1&url=acestream://c12fb25dd0389272b6632778584dad2698f4b3ea&name=centoxcento-tv
-#EXTINF:0, eroxxx-hd
-plugin://program.plexus/?mode=1&url=acestream://b9511ea6be2739814eb9ac95db82572767b0f367&name=eroxxx-hd
-#EXTINF:0, exotica-tv
-plugin://program.plexus/?mode=1&url=acestream://822fed2c7a6acd2e05ceefab0c2afed00f64e5fa&name=exotica-tv
-#EXTINF:0, hustler-hd
-plugin://program.plexus/?mode=1&url=acestream://2d8915e2357b581712152ee0c3f4ca2a3112942f&name=hustler-hd
-#EXTINF:0, hustler-tv
-plugin://program.plexus/?mode=1&url=acestream://5ab50fbb36c6e04eac57b36e930ea9d126e4dc36&name=hustler-tv
-#EXTINF:0, nuart-tv
-plugin://program.plexus/?mode=1&url=acestream://662c6ad696aa6567e24a9b14fd9e9526720ae243&name=nuart-tv
-#EXTINF:0, o-la-la
-plugin://program.plexus/?mode=1&url=acestream://edc6f1a8b654b648715e640a731c3e0596f486d1&name=o-la-la
-#EXTINF:0, pink-o-tv
-plugin://program.plexus/?mode=1&url=acestream://765e2401b0aa154545f4b55cc32860b523f7f96b&name=pink-o-tv
-#EXTINF:0, playboy-tv
-plugin://program.plexus/?mode=1&url=acestream://1a786800a0d58cff383b5015c885ac1b1e840654&name=playboy-tv
-#EXTINF:0, redlight-hd
-plugin://program.plexus/?mode=1&url=acestream://3bf1a9355957947311d0ebae5f14a846aea92b91&name=redlight-hd
-#EXTINF:0, satisfaction-hd
-plugin://program.plexus/?mode=1&url=acestream://75f4f8f069172d77258a8250a5cfd59a123ca286&name=satisfaction-hd
-#EXTINF:0, sextosenso
-plugin://program.plexus/?mode=1&url=acestream://7a120f14c9f0f6676fd863116b3eaa2d7c712701&name=sextosenso
-#EXTINF:0, Venus
-plugin://program.plexus/?mode=1&url=acestream://71b41b3bebb9c4e6c2e55f29f5427b9efeae6f95&name=Venus
-#EXTINF:0, tgirls-tv
-plugin://program.plexus/?mode=1&url=acestream://b48874056e1e987efeee256b5f96fa116233108d&name=tgirls-tv
-#EXTINF:0, xxl
-plugin://program.plexus/?mode=1&url=acestream://6fc1b0669bc3b9e02e07c2c85772d31540df5027&name=xxl
-#EXTINF:0, xxx
-plugin://program.plexus/?mode=1&url=acestream://bdfd5523a9d54474f5572e209352746794adcb83&name=xxx
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ESPINHO [SD]
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
 
-#EXTINF:0,=== Live ===
-http://
-#EXTINF:0, Live Sex Latinas
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8
-#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM1
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8
-#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM2
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8
-#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM3
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-#EXTINF:0 tvg-logo="Adult.png" tvg-logo="http://goo.gl/fsVTZN", BabeStation CAM4
-http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ESMORIZ [SD]
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
 
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", FURADOURO [SD]
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
 
-#EXTINF:0,=== Movies ===
-http://
-#EXTINF:-1, Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-#EXTINF:-1, Adult 4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-#EXTINF:0,1
-http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
-#EXTINF:0,2
-http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
-#EXTINF:0,3
-http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
-#EXTINF:0,4
-http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
-#EXTINF:0,5
-http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
-#EXTINF:0,6
-http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
-#EXTINF:0,7
-http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
-#EXTINF:0,8
-http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
-#EXTINF:0,9
-http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
-#EXTINF:0,10
-http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
-#EXTINF:0,11
-http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
-#EXTINF:0,12
-http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
-#EXTINF:0,13
-http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
-#EXTINF:0,14
-http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
-#EXTINF:0,15
-http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
-#EXTINF:0,16
-http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
-#EXTINF:0,17
-http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
-#EXTINF:0,18
-http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
-#EXTINF:0,19
-http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
-#EXTINF:0,20
-http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
-#EXTINF:0,21
-http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
-#EXTINF:0,22
-http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
-#EXTINF:0,23
-http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
-#EXTINF:0,24
-http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
-#EXTINF:0,25
-http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
-#EXTINF:0,26
-http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
-#EXTINF:0,27
-http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
-#EXTINF:0,28
-http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
-#EXTINF:0,29
-http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
-#EXTINF:0,30
-http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
-#EXTINF:0,31
-http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
-#EXTINF:0,32
-http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
-#EXTINF:0,33
-http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
-#EXTINF:0,34
-http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
-#EXTINF:0,35
-http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
-#EXTINF:0,36
-http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
-#EXTINF:0,37
-http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
-#EXTINF:0,38
-http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
-#EXTINF:0,39
-http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
-#EXTINF:0,40
-http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
-#EXTINF:0,41
-http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
-#EXTINF:0,42
-http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
-#EXTINF:0,43
-http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
-#EXTINF:0,44
-http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
-#EXTINF:0,45
-http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
-#EXTINF:0,46
-http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
-#EXTINF:0,47
-http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
-#EXTINF:0,48
-http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
-#EXTINF:0,49
-http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
-#EXTINF:0,50
-http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
-#EXTINF:-1,X_MOVIE_1
-http://0100dyndns.tv:7879/movie/tazia/tazia/679.mp4
-#EXTINF:-1,X_MOVIE_2
-http://0100dyndns.tv:7879/movie/tazia/tazia/680.mp4
-#EXTINF:-1,X_MOVIE_3
-http://0100dyndns.tv:7879/movie/tazia/tazia/681.mp4
-#EXTINF:-1,X_MOVIE_4
-http://0100dyndns.tv:7879/movie/tazia/tazia/682.mp4
-#EXTINF:-1,X_MOVIE_5
-http://0100dyndns.tv:7879/movie/tazia/tazia/683.mp4
-#EXTINF:-1,X_MOVIE_6
-http://0100dyndns.tv:7879/movie/tazia/tazia/684.mp4
-#EXTINF:-1,X_MOVIE_7
-http://0100dyndns.tv:7879/movie/tazia/tazia/685.mp4
-#EXTINF:-1,X_MOVIE_8
-http://0100dyndns.tv:7879/movie/tazia/tazia/686.mp4
-#EXTINF:-1,X_MOVIE_9
-http://0100dyndns.tv:7879/movie/tazia/tazia/687.mp4
-#EXTINF:-1,X_MOVIE_10
-http://0100dyndns.tv:7879/movie/tazia/tazia/688.mp4
-#EXTINF:-1,X_MOVIE_11
-http://0100dyndns.tv:7879/movie/tazia/tazia/692.mp4
-#EXTINF:-1,X_MOVIE_12
-http://0100dyndns.tv:7879/movie/tazia/tazia/693.mp4
-#EXTINF:-1,X_MOVIE_13
-http://0100dyndns.tv:7879/movie/tazia/tazia/694.mp4
-#EXTINF:-1,X_MOVIE_14
-http://0100dyndns.tv:7879/movie/tazia/tazia/695.mp4
-#EXTINF:-1,X_MOVIE_15
-http://0100dyndns.tv:7879/movie/tazia/tazia/696.mp4
-#EXTINF:-1,X_MOVIE_16
-http://0100dyndns.tv:7879/movie/tazia/tazia/697.mp4
-#EXTINF:-1,X_MOVIE_17
-http://0100dyndns.tv:7879/movie/tazia/tazia/698.mp4
-#EXTINF:-1,X_MOVIE_18
-http://0100dyndns.tv:7879/movie/tazia/tazia/699.mp4
-#EXTINF:-1,X_MOVIE_19
-http://0100dyndns.tv:7879/movie/tazia/tazia/700.mp4
-#EXTINF:-1,X_MOVIE_20
-http://0100dyndns.tv:7879/movie/tazia/tazia/701.mp4
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", TORREIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", BARRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", VAGUEIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", MIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", BUARCOS [SD]
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", NAZARÉ [SD]
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", SUPERTUBOS [SD]
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", LAGIDE [SD]
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", SANTA CRUZ [SD]
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", RIBEIRA D´ ILHAS [SD]
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ERICEIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", GRANDE [SD]
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", GUINCHO NORTE [SD]
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", GUINCHO SUL [SD]
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", S.PEDRO ESTORIL [SD]
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", CARCAVELOS [SD]
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", CAPARICA CDS [SD]
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", CAPARICA S.JOÃO [SD]
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", FONTE DA TELHA [SD]
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", CARVALHAL [SD]
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", S. TORPES [SD]
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ZAMBUJEIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", AMOREIRA [SD]
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ARRIFANA [SD]
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", PRAIA DA LUZ [SD]
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", MEIA PRAIA [SD]
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", ALVOR [SD]
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", PRAIA DA ROCHA [SD]
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", PRAIA DA GALÉ [SD]
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", EVARISTO [SD]
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", VILAMOURA [SD]
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", JARDIM DO MAR [SD]
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DrUPBwW6nJc/UvahHDNNLAI/AAAAAAAAJHk/kKDUQFgLuIc/s1600/logo.png" tvg-id="" group-title="Webcams",Beachcam: Liga Moche Surf
+rtmp://213.13.26.11/live playpath=surfstream.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/AF98tRzyzpZfvdfvv6rU timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/matosinhos/leca-da-palmeira/praia-de-leca-da-palmeira-6.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Leça da Palmeira
+rtmp://213.13.26.43/live playpath=leca.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/OF4ntVhaeSihG8JIWV8n timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/matosinhos/matosinhos/praia-de-matosinhos-6.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Matosinhos
+rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://inviita.com/blog/wp-content/uploads/2015/07/DSC03818-1024x768.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Norte - Espinho
+rtmp://213.13.26.42/live playpath=espinho.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1 timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://d2c4sy6bxazc7p.cloudfront.net/beach_Praia-do-Norte-55b0e0c21ca0f.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Centro - Praia do Norte
+rtmp://213.13.26.13/live playpath=norte.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/oCjzVigYoFkJHSjgTbkl timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/5176/large/Praiada-Barra.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Centro - Praia da Barra
+rtmp://213.13.26.13/live playpath=aveiro.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/oCjzVigYoFkJHSjgTbkl timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/13939/large/Praia-da-Vagueira.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Centro - Vagueira
+rtmp://213.13.26.13/live playpath=vagueira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/oCjzVigYoFkJHSjgTbkl timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/murtosa/torreira/praia-da-torreira-4.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Centro - Praia da Torreira
+rtmp://213.13.26.13/live playpath=torreira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/oCjzVigYoFkJHSjgTbkl timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.penichesurfguide.com/wp-content/uploads/2015/08/Lagide11.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Costa Oeste - Peniche Lagide Baía
+rtmp://213.13.26.11/live playpath=peniche.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/gf8BDWe7fWzQO92jHbBk timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.penichesurfguide.com/wp-content/uploads/2015/08/Supertubos-3.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Costa Oeste - SuperTubos
+rtmp://213.13.26.12/live playpath=supertubos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/cj18gCcQce1w7DBykbof timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.vakantieportugesekust.com/uploads/wysiwyg/Praia_de_Santa_Cruz_1.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Costa Oeste - Santa Cruz
+rtmp://213.13.26.43/live playpath=santacruz.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/2qs77WWaNsGO8kC47ArQ timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DrUPBwW6nJc/UvahHDNNLAI/AAAAAAAAJHk/kKDUQFgLuIc/s1600/logo.png" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Costa da Caparica CDS
+rtmp://213.13.26.41/live playpath=costa.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/mQFYGs9wRn2H30nvzQbd timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/almada/sao-joao-da-caparica/praia-de-sao-joao-da-caparica-7.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Costa da Caparica São João
+rtmp://213.13.26.41/live playpath=costasjoao.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/mQFYGs9wRn2H30nvzQbd timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/7828/large/Fonte-da-Telha.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Fonte da Telha
+rtmp://213.13.26.41/live playpath=fontetelha.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/mQFYGs9wRn2H30nvzQbd timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/795/large/Praia-Grande.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Praia Grande
+rtmp://213.13.26.41/live playpath=grande.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/grfBgAQdvMI3zCGZzPrF timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://ericeirasurfguide.bitcliq.com/_img/Panel2/117_galeriahome22.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Ericeira
+rtmp://213.13.26.12/live playpath=ericeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/DTlId9ym9TZc7rOhKECF timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/cascais/poca/praia-da-poca-2.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - São Pedro do Estoril
+rtmp://213.13.26.43/live playpath=saopedro.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/jenFJoJ9B0cZqIEylUvI timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/10143/large/Ribeira-Dilhas.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Ribeira D´Ilhas
+rtmp://213.13.26.43/live playpath=ribeira.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/JBVNouMY9PAovZa1dpLU timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://i.cdn-surfline.com/surfnews/images/2012/02_february/bestbet/full/Bravo_Carcavelos-4.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Carcavelos
+rtmp://213.13.26.41/live playpath=carcavelos.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/N1ZOaY48idM6hNTjL7qC timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://static.panoramio.com/photos/large/110283160.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Guincho Sul
+rtmp://213.13.26.42/live playpath=guincho.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/lhla7bAtgyT97RZYZrER timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.playocean.net/i/portugal/beaches/cascais/grande-do-guincho/praia-grande-do-guincho-24.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Lisboa - Guincho Norte
+rtmp://213.13.26.42/live playpath=guinchonorte.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/lhla7bAtgyT97RZYZrER timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.viagenseferias.net/wp-content/uploads/2015/05/SAM_5883.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Alentejo - Carvalhal
+rtmp://213.13.26.43/live playpath=carvalhal.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/C612sSyb7aOKWFjSF0m4 timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.surf-forecast.com/system/images/9656/large/Sao-Torpes.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Alentejo - São Torpes
+rtmp://213.13.26.11/live playpath=saotorpes.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/zzodtq8OUtUfIeLHTjvC timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://newmedia.thomson.co.uk/live/vol/1/16424caba4db249b96ff89a5d7a8b9b24f5b6353/1080x608/web/EUROPEMEDITERRANEANPORTUGALALGARVEPRAIADALUZ.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Algarve - Praia da Luz
+rtmp://213.13.26.11/live playpath=luz.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.guiadacidade.pt/foto2/data/media/4/AlgarvePraiaEvaristo_resize.JPG" tvg-id="" group-title="Webcams",Beachcam: Praias Algarve - Praia do Evaristo
+rtmp://213.13.26.11/live playpath=evaristo.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://inviita.com/blog/wp-content/uploads/2015/07/MEIA-PRAIA.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Algarve - Meia Praia
+rtmp://213.13.26.11/live playpath=meiapraia.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.portugalvirtual.pt/algarve/vilamoura/beach-vilamoura-loule-algarve-780x350.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Algarve - Vilamoura
+rtmp://213.13.26.11/live playpath=vilamoura.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://www.portugalwanderer.com/wp-content/uploads/2011/08/madeira_3.jpg" tvg-id="" group-title="Webcams",Beachcam: Praias Ilhas - Jardim do Mar
+rtmp://213.13.26.13/live playpath=jardim.stream swfUrl=http://js.sapo.pt/Projects/Video/141016R1/flash/videojs.swf live=1 pageUrl=http://videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco timeout=15 conn=S:OK –live
+
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Amesterdão
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4098.flv swfUrl=http://www.earthcam.com/swf/images/stream_viewer.swf live=1 pageUrl=http://www.earthcam.com/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Anguilla
+rtmp://video4.earthcam.com:80/fecnetwork/7393.flv playpath=7393.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/world/anguilla/meadsbay/?cam=aletapool
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Banguecoque
+rtmp://video2.earthcam.com:80/fecnetwork playpath=5034.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140602 live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Belmont
+rtmp://video4.earthcam.com:1935/fecnetwork/5324.flv playpath=5324.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/northcarolina/belmont/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Budapeste
+rtmp://video2.earthcam.com:80/fecnetwork/hotelvictoria2.flv playpath=hotelvictoria2.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140602 live=1 pageUrl=http://www.earthcam.com/world/hungary/budapest/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Chicago - Wrigley Field
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=3186.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150520 live=1 pageUrl=http://www.earthcam.com/usa/illinois/chicago/wrigleyfield/?cam=wrigleyfield_hd
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Doha
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=7947.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140918 live=1 pageUrl=http://www.earthcam.com/world/ireland/dublin/?cam=templebar
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Dublin
+rtmp://video4.earthcam.com:1935/fecnetwork/4054.flv playpath=4054.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140918 live=1 pageUrl=http://www.earthcam.com/world/ireland/dublin/?cam=templebar
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Estação Espacial Internacional
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Hawaii Surf Cam
+rtmp://video4.earthcam.com/fecnetwork/5204.flv playpath=5204.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/hawaii/kauai/koloa/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Hamburg
+rtmp://video4.earthcam.com/fecnetwork playpath=3847fairmont.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/hawaii/kauai/koloa/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Hollywood Boulevard
+rtmp://video4.earthcam.com:80/fecnetwork playpath=lacitytours1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150520 live=1 pageUrl=http://www.earthcam.com/usa/california/losangeles/hollywoodblvd/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Hollywood Sign (1)
+rtmp://54.225.231.21/hollywoodsignlower playpath=upper.stream swfUrl=http://54.225.231.21/player.swf live=1 pageUrl=http://www.hollywoodsign.org/webcam.html
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Hollywood Sign (2)
+rtmp://54.225.231.21/hollywoodsignlower playpath=lower.stream swfUrl=http://54.225.231.21/player.swf live=1 pageUrl=http://www.hollywoodsign.org/webcam.html
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Jackson Hole
+rtmp://video4.earthcam.com:1935/fecnetwork/6954.flv playpath=6954.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/wyoming/jackson/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Las Vegas
+rtmp://video4.earthcam.com/fecnetwork playpath=eclasvegas.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/newjersey/wildwood/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Londres - Abbey Road
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=AbbeyRoadHD1.flv swfUrl=http://www.earthcam.com/swf/images/stream_viewer.swf live=1 pageUrl=http://www.earthcam.com/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Miami Beach
+rtmp://video4.earthcam.com:80/fecnetwork playpath=miamivishd1.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/newyork/littleitaly/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nápoles
+rtmp://video4.earthcam.com/fecnetwork playpath=5732.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/newjersey/wildwood/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",New Jersey - Wildwoods
+rtmp://video4.earthcam.com/fecnetwork playpath=5732.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140710 live=1 pageUrl=http://www.earthcam.com/usa/newjersey/wildwood/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - 5th Avenue
+rtmp://video4.earthcam.com:80/fecnetwork playpath=fridays_5th.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Brooklyn Bridge
+rtmp://video4.earthcam.com:80/fecnetwork playpath=3983.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - East River
+rtmp://video4.earthcam.com:80/fecnetwork playpath=5092.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - High Line
+rtmp://video4.earthcam.com:80/fecnetwork playpath=7384.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Hudson River
+rtmp://video4.earthcam.com:80/fecnetwork playpath=4544.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Mulberry Street
+rtmp://video4.earthcam.com:80/fecnetwork playpath=5775.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 live=1 pageUrl=http://www.earthcam.com/usa/newyork/littleitaly/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Times Square (47th & Broad)
+rtmp://video4.earthcam.com:80/fecnetwork playpath=hdtimes10.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Times Square (Street Cam)
+rtmp://video4.earthcam.com:80/fecnetwork playpath=hdtimes11.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Times Square (South View)
+rtmp://video4.earthcam.com:80/fecnetwork playpath=4017timessquare.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Times Square (Crossroads)
+rtmp://video4.earthcam.com:80/fecnetwork playpath=4717.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Statue of Liberty
+rtmp://video4.earthcam.com:80/fecnetwork playpath=statueoflibertyHD.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Nova Iorque - Statue of Liberty (HarborCam)
+rtmp://video4.earthcam.com:80/fecnetwork playpath=libertyHD1.flv swfUrl=http://www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140902 pageUrl=http://www.earthcam.com/usa/newyork/timessquare/?cam=tsrobo1
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Niagara Falls
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=4559.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141121 live=1 pageUrl=http://www.earthcam.com/usa/florida/manalapan/palmbeach/?cam=manalapan_palmbeach
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Palm Beach
+rtmp://video4.earthcam.com:1935/fecnetwork playpath=6391.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141121 live=1 pageUrl=http://www.earthcam.com/usa/florida/manalapan/palmbeach/?cam=manalapan_palmbeach
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Paris - Torre Eiffel
+rtmp://video2.earthcam.com/fecnetwork playpath=eiffelcamHD.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140409 live=1 pageUrl=http://www.earthcam.com/france/paris/?cam=eiffeltower_hd
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Peregrine Falcon Cam
+rtmp://video2.earthcam.com/fecnetwork playpath=370.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140409 live=1 pageUrl=http://www.earthcam.com/usa/illinois/falcon/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Praga
+rtmp://video2.earthcam.com:80/fecnetwork playpath=4162.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf live=1 pageUrl=http://www.earthcam.com/world/hungary/budapest/
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Rio de Janeiro
+rtmp://video2.earthcam.com:80/fecnetwork playpath=6593.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20140602 live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",San Francisco
+rtmp://video4.earthcam.com:80/fecnetwork playpath=6603.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20141121 live=1 pageUrl=http://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Seattle
+rtmp://video4.earthcam.com/fecnetwork playpath=7254.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Sydney
+rtmp://video4.earthcam.com:80/fecnetwork playpath=4931.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
+#EXTINF:-1 tvg-logo="http://it.pharr-tx.gov/wp-content/uploads/sites/7/2014/12/EarthCam-Logo-Webcam-Tech_full.png" tvg-id="" group-title="Webcams",Tóquio
+rtmp://video2.earthcam.com:80/fecnetwork playpath=tokyo1.flv swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf live=1 pageUrl=http://www.earthcam.com/usa/washington/seattle/?cam=seattleskyline
